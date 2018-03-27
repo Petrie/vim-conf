@@ -3,3 +3,4 @@
 ```shell
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
+进入vim，执行:PluginInstall
